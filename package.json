@@ -1,0 +1,23 @@
+{
+  "name": "n",
+  "version": "1.0.0",
+  "description": "Projeto em Node utilizando rotas para criar uma API onde gera, exclui e verifica territórios específicos. Além de obter os quadrados pintados.",
+  "main": "src/servidor.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "1.14.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "n"
+  }
+}
